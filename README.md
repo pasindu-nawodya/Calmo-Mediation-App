@@ -1,16 +1,16 @@
 # mediation
 
-A new Flutter project.
+A mind can be weak depend on any situation we face on our lives. Due to any kind of problem or a pressure human mind can get weak.This App will help you to free and concentrate on your mind. From the application the user will be able to be control or to be free from mental distress such as stress.
 
-## Getting Started
+### Loading Screen
+![mediator](https://github.com/pasindu-nawodya/Calmo-Mediation-App/blob/master/assets/screenshot/loading.png)
 
-This project is a starting point for a Flutter application.
+### Home Screen
+![mediator](https://github.com/pasindu-nawodya/Calmo-Mediation-App/blob/master/assets/screenshot/home.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Mediation Page
+![mediator](https://github.com/pasindu-nawodya/Calmo-Mediation-App/blob/master/assets/screenshot/mediation.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### About Page
+![mediator](https://github.com/pasindu-nawodya/Calmo-Mediation-App/blob/master/assets/screenshot/about.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
